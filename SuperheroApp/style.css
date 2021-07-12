@@ -1,0 +1,29 @@
+.gallery img{
+    width: 100%;
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    background-color: crimson;
+    color: black;
+    font-size: 70px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+#menu{
+    background-color: cornflowerblue; 
+    font-family: sans-serif;
+    font-size: 24px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: center;
+}
+a:hover{
+    color: crimson;
+}
+a{
+  text-decoration: none;
+  text-align: center;
+  color: aliceblue;
+    
+}
